@@ -1,3 +1,7 @@
+# Assignment 1.1
+#This code is to generate profiling report on CSV data. 
+
+
 import pandas as pd
 from ydata_profiling import ProfileReport
 
