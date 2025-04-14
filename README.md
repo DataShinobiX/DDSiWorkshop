@@ -6,12 +6,11 @@ This project analyzes customer behavior and sales data for **Comfy**, a leading 
 
 ## 📁 Project Structure
 
-- `dataQuality.ipynb` – Data cleaning, profiling, and outlier handling
-- `dataReportGeneration.py` – YData profiling reports for both datasets
-- `saleReturnDataClean.py` – Return data cleaning
-- `dataExploration.ipynb` – RFM analysis, CLV, visualizations, trend analysis
-- `advVisualInsight.ipynb` – High level visualization
-- `Comfy_EDA_Visualization.pptx` – Branded title slide for your presentation
+- `dataQuality.ipynb` – Data cleaning, profiling, and outlier handling (Assignment 1.1)
+- `dataReportGeneration.py` – YData profiling reports for both datasets (Assignment 1.1)
+- `saleReturnDataClean.py` – Return data cleaning (Assignment 1.1)
+- `dataExploration.ipynb` – RFM analysis, CLV, visualizations, trend analysis (Assignment 1.2)
+- `advVisualInsight.ipynb` – High level visualization (Assignment 1.3)
 - `README.md` – This file
 
 ---
@@ -34,7 +33,7 @@ This project analyzes customer behavior and sales data for **Comfy**, a leading 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/comfy-loyalty-analysis.git
+   git clone https://github.com/DataShinobiX/DDSiWorkshop.git
 Place the Data
 For data privacy and protection reasons, the raw data files are not included in this repository.
 To run the project:
@@ -43,4 +42,4 @@ To run the project:
 
 🧠 Author
 Paritosh Singh
-Data Science in Business & Entrepreneurship (2025)
+Data Science in Business & Entrepreneurship (2025) - JADS
