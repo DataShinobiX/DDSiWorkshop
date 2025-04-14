@@ -40,11 +40,6 @@ For data privacy and protection reasons, the raw data files are not included in 
 To run the project:
 	•	Create a directory named Comfy_Data/ in the root of the project
 	•	Place the transaction and client CSV files inside this folder
-Comfy_Analysis/
-├── Comfy_Data/
-│   ├── transaction.csv
-│   └── clients.csv
-
 
 🧠 Author
 Paritosh Singh
